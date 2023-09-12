@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm afseer</h1>
+<h1 align="center">Hi 👋, I'm AFSEER</h1>
 <h3 align="center">A passionate Fullstack developer in India</h3>
 <img alt="developer" height="400" width="500" src="https://cdn-images-1.medium.com/v2/resize:fit:640/1*vJjJ3Mdok6Rvxx85IIRqBQ.gif">
 
