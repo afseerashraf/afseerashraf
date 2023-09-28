@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm AFSEER</h1>
 <h3 align="center">A passionate Fullstack developer in India</h3>
-<img alt="developer" height="400" width="500" src="https://cdn-images-1.medium.com/v2/resize:fit:640/1*vJjJ3Mdok6Rvxx85IIRqBQ.gif">
+<img alt="developer" height="500" width="500" src="https://static.vecteezy.com/system/resources/previews/011/153/365/original/3d-web-developer-working-on-project-illustration-png.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=afseerashraf&label=Profile%20views&color=0e75b6&style=flat" alt="afseerashraf" /> </p>
 
