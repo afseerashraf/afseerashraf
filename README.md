@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm AFSEER</h1>
-<h3 align="center">🚀 A passionate Fullstack Developer from India 🇮🇳</h3>
+<h3 align="center">🚀 A passionate Fullstack Developer from India</h3>
 
 <p align="center">
   <img src="https://static.vecteezy.com/system/resources/previews/011/153/365/original/3d-web-developer-working-on-project-illustration-png.png" width="300" alt="developer" />
