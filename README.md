@@ -9,7 +9,7 @@
   <a href="https://twitter.com/afseer_ashraf"><img src="https://img.shields.io/twitter/follow/afseer_ashraf?logo=twitter&style=for-the-badge" /></a>
   <a href="https://linkedin.com/in/afseer-ashraf"><img src="https://img.shields.io/badge/-Afseer%20Ashraf-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:afseerashraf007@gmail.com"><img src="https://img.shields.io/badge/-afseerashraf007@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
-  <a href="https://instagram.com/_afzeer_"><img src="https://img.shields.io/badge/-@afz_codes-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+  <a href="https://instagram.com/_afzeer_/"><img src="https://img.shields.io/badge/-@afz_codes-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
 </p>
 
 ---
